@@ -1,4 +1,4 @@
-[
+{ "productos":[
     {   "id" : 1,
         "title": "Chevrolet Onix Joy",
         "description": "Generación 2019, variedad de colores. Motor 1.0, ideal para ciudad.",
@@ -120,3 +120,4 @@
 
 }
 ]
+}
