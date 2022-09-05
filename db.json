@@ -1,0 +1,129 @@
+[
+    {   "id" : 1,
+        "title": "Chevrolet Onix Joy",
+        "description": "Generación 2019, variedad de colores. Motor 1.0, ideal para ciudad.",
+        "price": 13500,
+        "currency": "USD",
+        "pictureUrl": "https://imgs.search.brave.com/B7CwzABhn1xm1cQpDa4-dKbJg3fhKYRAlfrx2NcGoGA/rs:fit:1200:901:1/g:ce/aHR0cHM6Ly93d3cu/YXV0b2RhdG8uY29t/L3dwLWNvbnRlbnQv/Z2FsbGVyeS9jaGV2/cm9sZXQtb25peC0y/MDE5L0NoZXZyb2xl/dC1Pbml4LTIwMTkt/MDQuanBn"
+
+    },
+    {   "id":2,
+        "title": "Fiat Way",
+        "description": "Generación 2019, variedad de colores. Motor 1.0, ideal para ciudad.",
+        "price": 14500,
+        "currency": "USD",
+        "pictureUrl": "https://imgs.search.brave.com/6q5ScL5eodKamov9LLIxKiKYLGzQtQh5sFtSZL23vRc/rs:fit:1200:952:1/g:ce/aHR0cHM6Ly80LmJw/LmJsb2dzcG90LmNv/bS8tUjdETFNSRGlE/cFEvVjFNYTZQc0o0/N0kvQUFBQUFBQUIy/a3MvbEpNTnZkRmZG/bEFudnhTcjB3czhu/dEh3ODJOc1psb05n/Q0xjQi9zMTYwMC9G/SUFUX01PQklfV0FZ/T05fMDEyLkpQRw"
+
+    },
+    {    "id":3,
+        "title": "Suzuki Celerio",
+        "description": "Generación 2019, variedad de colores. Motor 1.0, ideal para ciudad.",
+        "price": 12500,
+        "currency": "USD",
+        "pictureUrl": "https://imgs.search.brave.com/gZVURIEtH6B6vhH2u6bps3NSHgwnXCF-tOO8V9c_LSA/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/YXV0b3plaXR1bmcu/ZGUvYXNzZXRzL2dh/bGxlcnlfaW1hZ2Vz/LzIwMTQvMTAvU3V6/dWtpLUNlbGVyaW8t/MjAxNC1GYWhyYmVy/aWNodC1QcmVpcy1r/bGVpbnN0d2FnZW4t/YXVzc3RhdHR1bmct/dGVjaG5pc2NoZS1k/YXRlbi1iaWxkZXIt/Zm90b3MtMDAxMi5q/cGc"
+       
+
+    },
+    {   "id":4,
+        "title": "Peugeot 208",
+        "description": "Generación 2019, variedad de colores. Motor 1.0, ideal para ciudad.",
+        "price": 15200,
+        "currency": "USD",
+        "pictureUrl": "https://imgs.search.brave.com/wvVGeICyhXY436hgFNm_kawYZjEtjSJiLXq8Esm493A/rs:fit:1200:1080:1/g:ce/aHR0cHM6Ly9hdXRv/dGVzdC5jb20uYXIv/d3AtY29udGVudC91/cGxvYWRzLzIwMjAv/MDMvcGV1Z2VvdC0y/MDgtMjAxOS1hbWFy/aWxsby1leHRlcmlv/ci0xOV8xOTIweDE2/MDBjLmpwZw"
+
+
+    },
+    {   "id":5,
+        "title": "Volkswagen T-Cross",
+        "description": "Generación 2019, variedad de colores. Motor 1.0, ideal para ciudad.",
+        "price":26990,
+        "currency": "USD",
+        "pictureUrl": "https://imgs.search.brave.com/q8AMVPSQNaLlKBTk3vOZDmREyan1hO2m1GW5OTHBYSw/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9mYXJt/OC5zdGF0aWNmbGlj/a3IuY29tLzc4NDAv/MzI0ODYxNjI2Mzdf/OTBkOWNiODI5NV9v/LmpwZw"
+
+    },
+    {   "id":6,
+        "title": "Renault Kwid",
+        "description": "Generación 2019, variedad de colores. Motor 1.0, ideal para ciudad.",
+        "price":12990,
+        "currency": "USD",
+        "pictureUrl": "https://imgs.search.brave.com/k_hTVFKVB97JLGZ8A_T1LIX4o3wCmvjnzWwg_f8haIQ/rs:fit:1200:910:1/g:ce/aHR0cHM6Ly9pLmJs/b2dzLmVzLzBjODc3/NC9yZW5hdWx0LWt3/aWRfLzEzNjZfMjAw/MC5qcGVn"
+
+    },
+    {   "id":7,
+        "title": "Nissan kicks",
+        "description": "Generación 2019, variedad de colores. Motor 1.0, ideal para ciudad.",
+        "price":27490,
+        "currency": "USD",
+        "pictureUrl": "https://imgs.search.brave.com/O57Nsrzv0ADdh6StqJJ826UDnl46OCgBqaBAoOqMXt8/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9xdWF0/cm9yb2Rhcy5hYnJp/bC5jb20uYnIvd3At/Y29udGVudC91cGxv/YWRzLzIwMjEvMDMv/RkxQNzg3OS1lMTYx/NjI2NTU1NDQ2OS5q/cGc_cXVhbGl0eT03/MCZzdHJpcD1pbmZv"
+        
+    },{   "id":8,
+        "title": "Fiat Mobi Trekking",
+        "description": "Generación 2019, variedad de colores. Motor 1.0, ideal para ciudad.",
+        "price":14350,
+        "currency": "USD",
+        "pictureUrl": "https://imgs.search.brave.com/4uhIiQRbpe0NDJocPw2r15ppGHTRg9l559D0A5XbjSM/rs:fit:960:639:1/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vdGllbXBv/bW90b3IuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIwLzA3/L0ZpYXRfTW9iaV9U/cmVra2luZ19yZWNy/ZWFjaSVDMyVCM25f/SC5qcGc_Zml0PTk2/MCUyQzYzOSZzc2w9/MQ"
+       
+    },
+    {   "id":9,
+        "title": "Volvo XC90",
+        "description": "Generación 2019, variedad de colores. Motor 1.0, ideal para ciudad.",
+        "price":30000,
+        "currency": "USD",
+        "pictureUrl": "https://imgs.search.brave.com/OakjKLoRnAyndteQqe7_FSCNzeCwUvz0zPZJ9X7WeNc/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9hc3Nl/dHMtZXUtMDEua2Mt/dXNlcmNvbnRlbnQu/Y29tL2JiNWFiYTMx/LWQ5OGMtMDE2MC04/NTQ4LTQxOGIzNzIz/YzU4ZS84MDRmMTli/Yy1jMDFiLTQ0Yzgt/YmYzYy1lMDlhODRi/MGZkNDQvVm9sdm8l/MjBYQzkwJTIwKDcp/LmpwZw"
+       
+    },{   "id":10,
+    "title": "Volvo XC60",
+    "description": "Generación 2018, variedad de colores. Motor 1.0, ideal para ciudad.",
+    "price":30000,
+    "currency": "USD",
+    "pictureUrl": "https://imgs.search.brave.com/yknY181QhpIpdSRWOIIUNWtdmedQjSP_KSvamU7uIzI/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9hc3Nl/dHMtZXUtMDEua2Mt/dXNlcmNvbnRlbnQu/Y29tL2JiNWFiYTMx/LWQ5OGMtMDE2MC04/NTQ4LTQxOGIzNzIz/YzU4ZS8wNGYwN2Ey/MC00ZmMzLTRmZGMt/YTA4NC02NWVjMmQ2/ODU3NWIvVm9sdm8l/MjBYQzYwJTIwKDEp/LmpwZw"
+   
+},
+{   "id":11,
+    "title": "Mercedes-Benz S-class",
+    "description": "Generación 2021, variedad de colores. Motor 1.0, ideal para ciudad.",
+    "price":30000,
+    "currency": "USD",
+    "pictureUrl": "https://imgs.search.brave.com/XQtILztr6C5VeTleu_Pmhl1ROXI91vKtTLX1sPf_Wkw/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/c3VwZXJjYXJzLm5l/dC9ibG9nL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIwLzExLzIw/MjEtTWVyY2VkZXMt/QmVuei1TLUNsYXNz/LTAxMy0yMTYwLXNj/YWxlZC5qcGc"
+   
+},
+{   "id":12,
+    "title": "Mercedes-Benz C63",
+    "description": "Generación 2021, variedad de colores. Motor 1.0, ideal para ciudad.",
+    "price":30000,
+    "currency": "USD",
+    "pictureUrl": "https://imgs.search.brave.com/aKyuH_kz8XAPROKY_y9LppBZV7SX-NLCJTUoGirfTn0/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/aGRuaWNld2FsbHBh/cGVycy5jb20vV2Fs/bHMvQmlnL01lcmNl/ZGVzL01lcmNlZGVz/X0JlbnpfQzYzX0FN/R19DYXIuanBn"
+   
+},
+{   "id":13,
+    "title": "Toyota corollla",
+    "description": "Generación 2021, variedad de colores. Motor 1.0, ideal para ciudad.",
+    "price":30000,
+    "currency": "USD",
+    "pictureUrl": "https://imgs.search.brave.com/fJKbO5AoTqGncVsyDx6i1tMBIN16v5ENyZW4ZXfW4NQ/rs:fit:1200:1080:1/g:ce/aHR0cHM6Ly93d3cu/dG95b3RhcGVydS5j/b20ucGUvc2l0ZXMv/ZGVmYXVsdC9maWxl/cy9jb3JvbGxhLWV4/dGVyaW9yLWF6dWwu/anBn"
+   
+},
+{   "id":14,
+    "title": "Toyota Hilux",
+    "description": "Generación 2021, variedad de colores. Motor 1.0, ideal para ciudad.",
+    "price":30000,
+    "currency": "USD",
+    "pictureUrl": "https://imgs.search.brave.com/n3MisEEybjFfA9wP7u1uR1_Ou23_dOfl6tMoqLPxghI/rs:fit:1200:720:1/g:ce/aHR0cHM6Ly9jZG4u/YXV0b2JpbGQuZXMv/c2l0ZXMvbmF2aS5h/eGVsc3ByaW5nZXIu/ZXMvcHVibGljL3N0/eWxlcy8xMjAwL3B1/YmxpYy9tZWRpYS9p/bWFnZS8yMDE0LzAy/LzMxNDMxMi10b3lv/dGEtaGlsdXgtaW52/aW5jaWJsZS1kZWxh/bnRlcmEuanBnP2l0/b2s9MEd3RTdvd0Q"
+   
+},
+{   "id":15,
+    "title": "Toyota Aygo",
+    "description": "Generación 2021, variedad de colores. Motor 1.0, ideal para ciudad.",
+    "price":30000,
+    "currency": "USD",
+    "pictureUrl": "https://imgs.search.brave.com/A2DkP2vsl9ZQ7oiCTap1kSNPgw_lEWwrxsvoBbMuQBI/rs:fit:1200:843:1/g:ce/aHR0cHM6Ly9vdG9j/YXIuZnIvd3AtY29u/dGVudC91cGxvYWRz/LzIwMTkvMDEvVGlt/LUJhcm5lcy1DbGF5/LUNhcndyaXRlLXVw/cy1yZXZpZXdzLXRo/ZS1OZXctVG95b3Rh/LUF5Z28tMjAxOC0x/LmpwZw"
+   
+},{   "id":16,
+"title": "Nissan Sentra",
+"description": "Generación 2021, variedad de colores. Motor 1.0, ideal para ciudad.",
+"price":30000,
+"currency": "USD",
+"pictureUrl": "https://imgs.search.brave.com/hSHW6L64xmSaD3wpHgKQUmQGqdbo1KmUs2bPHNDGbSg/rs:fit:1024:631:1/g:ce/aHR0cHM6Ly9hdXRv/dGVzdC5jb20uYXIv/d3AtY29udGVudC91/cGxvYWRzLzIwMjAv/MTAvTlVFVk8tTklT/U0FOLVNFTlRSQS0z/LTEwMjR4NjMxLmpw/Zw"
+
+}
+]
