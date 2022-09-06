@@ -33,14 +33,15 @@
     },
     {   "id":5,
         "title": "Volkswagen T-Cross",
-        "description": "Generación 2019, variedad de colores. Motor 1.0, ideal para ciudad.",
+        "description": "El Volkswagen T-Cross  es la última incorporación a la creciente gama SUV del fabricante alemán. Un modelo que con sus 4,11 metros de longitud, se posiciona como el más pequeño de la familia de todocaminos de Volkswagen.",
         "price":26990,
         "pictureUrl": "https://imgs.search.brave.com/q8AMVPSQNaLlKBTk3vOZDmREyan1hO2m1GW5OTHBYSw/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9mYXJt/OC5zdGF0aWNmbGlj/a3IuY29tLzc4NDAv/MzI0ODYxNjI2Mzdf/OTBkOWNiODI5NV9v/LmpwZw"
 
     },
     {   "id":6,
         "title": "Renault Kwid",
-        "description": "Generación 2019, variedad de colores. Motor 1.0, ideal para ciudad.",
+        "description": "Nuevo Renault Kwid intense 1.0 ahora con control de estabilidad y mejoras en su confort y su estética tanto en su exterior como en su interior
+",
         "price":12990,
 
         "pictureUrl": "https://imgs.search.brave.com/k_hTVFKVB97JLGZ8A_T1LIX4o3wCmvjnzWwg_f8haIQ/rs:fit:1200:910:1/g:ce/aHR0cHM6Ly9pLmJs/b2dzLmVzLzBjODc3/NC9yZW5hdWx0LWt3/aWRfLzEzNjZfMjAw/MC5qcGVn"
@@ -48,14 +49,16 @@
     },
     {   "id":7,
         "title": "Nissan kicks",
-        "description": "Generación 2019, variedad de colores. Motor 1.0, ideal para ciudad.",
+        "description": "El Nissan Kicks encuentra su "habitat natural" en la ciudad. Adopta un diseño que luce fresco para atraer a un público joven. En sus líneas podemos encontrar el nuevo lenguaje de diseño de la marca gracias a la integración de la nueva parrilla V-motion y el efecto de techo flotante que dan los contrastes de color ",
         "price":27490,
      
         "pictureUrl": "https://imgs.search.brave.com/O57Nsrzv0ADdh6StqJJ826UDnl46OCgBqaBAoOqMXt8/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9xdWF0/cm9yb2Rhcy5hYnJp/bC5jb20uYnIvd3At/Y29udGVudC91cGxv/YWRzLzIwMjEvMDMv/RkxQNzg3OS1lMTYx/NjI2NTU1NDQ2OS5q/cGc_cXVhbGl0eT03/MCZzdHJpcD1pbmZv"
         
     },{   "id":8,
         "title": "Fiat Mobi Trekking",
-        "description": "Generación 2019, variedad de colores. Motor 1.0, ideal para ciudad.",
+        "description": "Si hay algo donde FIAT destaca de sobremanera, es el en diseño, sin importar de que se trate de un deportivo o de un auto urbano como el Mobi y de la procedencia que sea. En especial con el paquete Trekking, el Mobi es el más atractivo entre los autos del segmento A, quizás obviando al Kia Morning. 
+
+",
         "price":14350,
    
         "pictureUrl": "https://imgs.search.brave.com/4uhIiQRbpe0NDJocPw2r15ppGHTRg9l559D0A5XbjSM/rs:fit:960:639:1/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vdGllbXBv/bW90b3IuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIwLzA3/L0ZpYXRfTW9iaV9U/cmVra2luZ19yZWNy/ZWFjaSVDMyVCM25f/SC5qcGc_Zml0PTk2/MCUyQzYzOSZzc2w9/MQ"
@@ -63,14 +66,14 @@
     },
     {   "id":9,
         "title": "Volvo XC90",
-        "description": "Generación 2019, variedad de colores. Motor 1.0, ideal para ciudad.",
+        "description": "El Volvo XC90 es el modelo más grande de la actual gama SUV del fabricante sueco. La segunda generación fue revelada en 2015 y, en 2019, se sometió al que es su primer restyling que le mantendrá actualizado frente a sus competidores más fuertes del segmento E-SUV.",
         "price":30000,
         
         "pictureUrl": "https://imgs.search.brave.com/OakjKLoRnAyndteQqe7_FSCNzeCwUvz0zPZJ9X7WeNc/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9hc3Nl/dHMtZXUtMDEua2Mt/dXNlcmNvbnRlbnQu/Y29tL2JiNWFiYTMx/LWQ5OGMtMDE2MC04/NTQ4LTQxOGIzNzIz/YzU4ZS84MDRmMTli/Yy1jMDFiLTQ0Yzgt/YmYzYy1lMDlhODRi/MGZkNDQvVm9sdm8l/MjBYQzkwJTIwKDcp/LmpwZw"
        
     },{   "id":10,
     "title": "Volvo XC60",
-    "description": "Generación 2018, variedad de colores. Motor 1.0, ideal para ciudad.",
+    "description": "El diseño del Volvo XC60 está muy influenciado por el todocamino más grande de la marca, el Volvo XC90. El frontal está protagonizado por los faros denominado ‘Hammer Head’, una gran parrilla con barras verticales y un esculpido parachoques con una entrada de aire central y dos aberturas laterales que integra un segundo grupo óptico.",
     "price":30000,
  
     "pictureUrl": "https://imgs.search.brave.com/yknY181QhpIpdSRWOIIUNWtdmedQjSP_KSvamU7uIzI/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9hc3Nl/dHMtZXUtMDEua2Mt/dXNlcmNvbnRlbnQu/Y29tL2JiNWFiYTMx/LWQ5OGMtMDE2MC04/NTQ4LTQxOGIzNzIz/YzU4ZS8wNGYwN2Ey/MC00ZmMzLTRmZGMt/YTA4NC02NWVjMmQ2/ODU3NWIvVm9sdm8l/MjBYQzYwJTIwKDEp/LmpwZw"
@@ -78,7 +81,7 @@
 },
 {   "id":11,
     "title": "Mercedes-Benz S-class",
-    "description": "Generación 2021, variedad de colores. Motor 1.0, ideal para ciudad.",
+    "description": "Mercedes-Benz S-Class 2022 no es solo un automóvil de lujo privado para los súper ricos, sino también un escaparate móvil de las últimas tecnologías de la compañía. El icónico automóvil Mercedes no solo tiene un interior revestido con materiales de la más alta calidad, sino que el tablero también está equipado con una enorme pantalla OLED y pantalla 3D y navegación de realidad aumentada.",
     "price":30000,
  
     "pictureUrl": "https://imgs.search.brave.com/XQtILztr6C5VeTleu_Pmhl1ROXI91vKtTLX1sPf_Wkw/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/c3VwZXJjYXJzLm5l/dC9ibG9nL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIwLzExLzIw/MjEtTWVyY2VkZXMt/QmVuei1TLUNsYXNz/LTAxMy0yMTYwLXNj/YWxlZC5qcGc"
@@ -86,35 +89,37 @@
 },
 {   "id":12,
     "title": "Mercedes-Benz C63",
-    "description": "Generación 2021, variedad de colores. Motor 1.0, ideal para ciudad.",
+    "description": "Mercedes-AMG C 63 esconde en su vano motor la primera generación de los bloques de menor tamaño y ayuda eléctrica, ideado para los AMG de última hornada. Por supuesto, todo ello nace por la necesidad de cumplir con las normativas de emisiones, pero el resultado puede ser más estimulante de lo esperado.
+
+",
     "price":30000,
     
     "pictureUrl": "https://imgs.search.brave.com/aKyuH_kz8XAPROKY_y9LppBZV7SX-NLCJTUoGirfTn0/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/aGRuaWNld2FsbHBh/cGVycy5jb20vV2Fs/bHMvQmlnL01lcmNl/ZGVzL01lcmNlZGVz/X0JlbnpfQzYzX0FN/R19DYXIuanBn"
    
 },
 {   "id":13,
-    "title": "Toyota corollla",
-    "description": "Generación 2021, variedad de colores. Motor 1.0, ideal para ciudad.",
+    "title": "Toyota corolla",
+    "description": "El nuevo Corolla Cross cuenta con un motor gasolina 2.0L "Dynamic Force" Dual VVT-i, con inyección mixta y una potencia de 168 hp, que logra un equilibrio entre bajo consumo de combustible y una gran potencia.",
     "price":30000,
     "pictureUrl": "https://imgs.search.brave.com/fJKbO5AoTqGncVsyDx6i1tMBIN16v5ENyZW4ZXfW4NQ/rs:fit:1200:1080:1/g:ce/aHR0cHM6Ly93d3cu/dG95b3RhcGVydS5j/b20ucGUvc2l0ZXMv/ZGVmYXVsdC9maWxl/cy9jb3JvbGxhLWV4/dGVyaW9yLWF6dWwu/anBn"
    
 },
 {   "id":14,
     "title": "Toyota Hilux",
-    "description": "Generación 2021, variedad de colores. Motor 1.0, ideal para ciudad.",
+    "description": "Reconocida mundialmente por su calidad, durabilidad y fiabilidad, la imparable Toyota Hilux continúa sorprendiendo con una nueva generación a la par que conquista lugares inhóspitos o logra podios en el Raid Dakar.",
     "price":30000,
  "pictureUrl": "https://imgs.search.brave.com/n3MisEEybjFfA9wP7u1uR1_Ou23_dOfl6tMoqLPxghI/rs:fit:1200:720:1/g:ce/aHR0cHM6Ly9jZG4u/YXV0b2JpbGQuZXMv/c2l0ZXMvbmF2aS5h/eGVsc3ByaW5nZXIu/ZXMvcHVibGljL3N0/eWxlcy8xMjAwL3B1/YmxpYy9tZWRpYS9p/bWFnZS8yMDE0LzAy/LzMxNDMxMi10b3lv/dGEtaGlsdXgtaW52/aW5jaWJsZS1kZWxh/bnRlcmEuanBnP2l0/b2s9MEd3RTdvd0Q"
    
 },
 {   "id":15,
     "title": "Toyota Aygo",
-    "description": "Generación 2021, variedad de colores. Motor 1.0, ideal para ciudad.",
+    "description": "Se pretendía conseguir un diseño intuitivo y cómodo en el día a día. El producto final es un Toyota estéticamente resultón, amplio en las plazas delanteras –teniendo en cuenta su segmento-, no así en las traseras y con un maletero 29 litros más grande (cubica 168 litros en total).",
     "price":30000,
     "pictureUrl": "https://imgs.search.brave.com/A2DkP2vsl9ZQ7oiCTap1kSNPgw_lEWwrxsvoBbMuQBI/rs:fit:1200:843:1/g:ce/aHR0cHM6Ly9vdG9j/YXIuZnIvd3AtY29u/dGVudC91cGxvYWRz/LzIwMTkvMDEvVGlt/LUJhcm5lcy1DbGF5/LUNhcndyaXRlLXVw/cy1yZXZpZXdzLXRo/ZS1OZXctVG95b3Rh/LUF5Z28tMjAxOC0x/LmpwZw"
    
 },{   "id":16,
 "title": "Nissan Sentra",
-"description": "Generación 2021, variedad de colores. Motor 1.0, ideal para ciudad.",
+"description": "La asociación con el motor avanzado es Xtronic CVT® (transmisión continuamente variable) “prácticamente sin engranajes” de Sentra. El Sentra 2022 tiene la última versión de Xtronic CVT, con Modo Sport, que proporciona cambios de relación de transmisión más agresivos para una mejor respuesta del acelerador durante una conducción enérgica",
 "price":30000,
 "pictureUrl": "https://imgs.search.brave.com/hSHW6L64xmSaD3wpHgKQUmQGqdbo1KmUs2bPHNDGbSg/rs:fit:1024:631:1/g:ce/aHR0cHM6Ly9hdXRv/dGVzdC5jb20uYXIv/d3AtY29udGVudC91/cGxvYWRzLzIwMjAv/MTAvTlVFVk8tTklT/U0FOLVNFTlRSQS0z/LTEwMjR4NjMxLmpw/Zw"
 
