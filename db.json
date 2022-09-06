@@ -81,7 +81,7 @@
 },
 {   "id":11,
     "title": "Mercedes-Benz S-class",
-    "description": "Mercedes-Benz S-Class 2022 no es solo un automóvil de lujo privado para los súper ricos, sino también un escaparate móvil de las últimas tecnologías de la compañía. El icónico automóvil Mercedes no solo tiene un interior revestido con materiales de la más alta calidad, sino que el tablero también está equipado con una enorme pantalla OLED y pantalla 3D y navegación de realidad aumentada.",
+    "description": "Mercedes-Benz S-Class 2022 no es solo un automóvil de lujo privado para los súper ricos. El icónico automóvil Mercedes no solo tiene un interior revestido con materiales de la más alta calidad.",
     "price":30000,
  
     "pictureUrl": "https://imgs.search.brave.com/XQtILztr6C5VeTleu_Pmhl1ROXI91vKtTLX1sPf_Wkw/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/c3VwZXJjYXJzLm5l/dC9ibG9nL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIwLzExLzIw/MjEtTWVyY2VkZXMt/QmVuei1TLUNsYXNz/LTAxMy0yMTYwLXNj/YWxlZC5qcGc"
@@ -99,7 +99,7 @@
 },
 {   "id":13,
     "title": "Toyota corolla",
-    "description": "El nuevo Corolla Cross cuenta con un motor gasolina 2.0L "Dynamic Force" Dual VVT-i, con inyección mixta y una potencia de 168 hp, que logra un equilibrio entre bajo consumo de combustible y una gran potencia.",
+    "description": "El nuevo Corolla Cross cuenta con un motor gasolina 2.0L  Dual VVT-i, con inyección mixta y una potencia de 168 hp, que logra un equilibrio entre bajo consumo de combustible y una gran potencia.",
     "price":30000,
     "pictureUrl": "https://imgs.search.brave.com/fJKbO5AoTqGncVsyDx6i1tMBIN16v5ENyZW4ZXfW4NQ/rs:fit:1200:1080:1/g:ce/aHR0cHM6Ly93d3cu/dG95b3RhcGVydS5j/b20ucGUvc2l0ZXMv/ZGVmYXVsdC9maWxl/cy9jb3JvbGxhLWV4/dGVyaW9yLWF6dWwu/anBn"
    
@@ -113,13 +113,13 @@
 },
 {   "id":15,
     "title": "Toyota Aygo",
-    "description": "Se pretendía conseguir un diseño intuitivo y cómodo en el día a día. El producto final es un Toyota estéticamente resultón, amplio en las plazas delanteras –teniendo en cuenta su segmento-, no así en las traseras y con un maletero 29 litros más grande (cubica 168 litros en total).",
+    "description": "Se pretendía conseguir un diseño intuitivo y cómodo en el día a día. El producto final es un Toyota estéticamente resultón, amplio en las plazas delanteras .",
     "price":30000,
     "pictureUrl": "https://imgs.search.brave.com/A2DkP2vsl9ZQ7oiCTap1kSNPgw_lEWwrxsvoBbMuQBI/rs:fit:1200:843:1/g:ce/aHR0cHM6Ly9vdG9j/YXIuZnIvd3AtY29u/dGVudC91cGxvYWRz/LzIwMTkvMDEvVGlt/LUJhcm5lcy1DbGF5/LUNhcndyaXRlLXVw/cy1yZXZpZXdzLXRo/ZS1OZXctVG95b3Rh/LUF5Z28tMjAxOC0x/LmpwZw"
    
 },{   "id":16,
 "title": "Nissan Sentra",
-"description": "La asociación con el motor avanzado es Xtronic CVT® (transmisión continuamente variable) “prácticamente sin engranajes” de Sentra. El Sentra 2022 tiene la última versión de Xtronic CVT, con Modo Sport, que proporciona cambios de relación de transmisión más agresivos para una mejor respuesta del acelerador durante una conducción enérgica",
+"description": "El Sentra 2022 tiene la última versión de Xtronic CVT, con Modo Sport, que proporciona cambios de relación de transmisión más agresivos para una mejor respuesta del acelerador durante una conducción enérgica",
 "price":30000,
 "pictureUrl": "https://imgs.search.brave.com/hSHW6L64xmSaD3wpHgKQUmQGqdbo1KmUs2bPHNDGbSg/rs:fit:1024:631:1/g:ce/aHR0cHM6Ly9hdXRv/dGVzdC5jb20uYXIv/d3AtY29udGVudC91/cGxvYWRzLzIwMjAv/MTAvTlVFVk8tTklT/U0FOLVNFTlRSQS0z/LTEwMjR4NjMxLmpw/Zw"
 
