@@ -1,21 +1,21 @@
 { "productos":[
     {   "id" : 1,
         "title": "Chevrolet Onix Joy",
-        "description": "Generación 2019, variedad de colores. Motor 1.0, ideal para ciudad.",
+        "description": "Potenciá tu actitud con Chevrolet Onix Joy que, además de destacarse por su diseño juvenil y moderno, te ofrece una óptima autonomía, un desempeño equilibrado y el máximo confort interior. Valor 0Km",
         "price": 13500,
         "pictureUrl": "https://imgs.search.brave.com/B7CwzABhn1xm1cQpDa4-dKbJg3fhKYRAlfrx2NcGoGA/rs:fit:1200:901:1/g:ce/aHR0cHM6Ly93d3cu/YXV0b2RhdG8uY29t/L3dwLWNvbnRlbnQv/Z2FsbGVyeS9jaGV2/cm9sZXQtb25peC0y/MDE5L0NoZXZyb2xl/dC1Pbml4LTIwMTkt/MDQuanBn"
 
     },
     {   "id":2,
         "title": "Fiat Way",
-        "description": "Generación 2019, variedad de colores. Motor 1.0, ideal para ciudad.",
+        "description": "Fiat Uno Way 2019 1.4 Mecánico Full Equipo, Doble Airbag y ABS, vidrios eléctricos en las 4 puertas, espejos eléctricos, pantalla táctil Android con conexión Bluetooth, exploradoras, rines de lujo Originales, barras de techo, timón ajustable en altura",
         "price": 14500,
      "pictureUrl": "https://imgs.search.brave.com/6q5ScL5eodKamov9LLIxKiKYLGzQtQh5sFtSZL23vRc/rs:fit:1200:952:1/g:ce/aHR0cHM6Ly80LmJw/LmJsb2dzcG90LmNv/bS8tUjdETFNSRGlE/cFEvVjFNYTZQc0o0/N0kvQUFBQUFBQUIy/a3MvbEpNTnZkRmZG/bEFudnhTcjB3czhu/dEh3ODJOc1psb05n/Q0xjQi9zMTYwMC9G/SUFUX01PQklfV0FZ/T05fMDEyLkpQRw"
 
     },
     {    "id":3,
         "title": "Suzuki Celerio",
-        "description": "Generación 2019, variedad de colores. Motor 1.0, ideal para ciudad.",
+        "description": "Lo mejor con el Suzuki Celerio es tomar las cosas con calma y viajar relajado de un punto a otro.",
         "price": 12500,
        
         "pictureUrl": "https://imgs.search.brave.com/gZVURIEtH6B6vhH2u6bps3NSHgwnXCF-tOO8V9c_LSA/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/YXV0b3plaXR1bmcu/ZGUvYXNzZXRzL2dh/bGxlcnlfaW1hZ2Vz/LzIwMTQvMTAvU3V6/dWtpLUNlbGVyaW8t/MjAxNC1GYWhyYmVy/aWNodC1QcmVpcy1r/bGVpbnN0d2FnZW4t/YXVzc3RhdHR1bmct/dGVjaG5pc2NoZS1k/YXRlbi1iaWxkZXIt/Zm90b3MtMDAxMi5q/cGc"
@@ -23,8 +23,8 @@
 
     },
     {   "id":4,
-        "title": "Peugeot 208",
-        "description": "Generación 2019, variedad de colores. Motor 1.0, ideal para ciudad.",
+        "title": "Peugeot 2008",
+        "description": "Un coche con el que la marca del león se ha referido muy bien todo este tiempo desde su nacimiento, tanto, que se ha posicionado como uno de los grandes modelos en los que es posible equilibrar la balanza entre un 100% eléctrico a un precio bastante asequible.",
         "price": 15200,
 
         "pictureUrl": "https://imgs.search.brave.com/wvVGeICyhXY436hgFNm_kawYZjEtjSJiLXq8Esm493A/rs:fit:1200:1080:1/g:ce/aHR0cHM6Ly9hdXRv/dGVzdC5jb20uYXIv/d3AtY29udGVudC91/cGxvYWRzLzIwMjAv/MDMvcGV1Z2VvdC0y/MDgtMjAxOS1hbWFy/aWxsby1leHRlcmlv/ci0xOV8xOTIweDE2/MDBjLmpwZw"
